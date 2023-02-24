@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     
     @State private var r: Double = 0
-    @State private var g: Double = 255
+    @State private var g: Double = 1
     @State private var b: Double = 0
     
     
