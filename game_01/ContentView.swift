@@ -43,7 +43,7 @@ struct ContentView: View {
                 .resizable()
                 .aspectRatio(contentMode: .fit)
                 .imageScale(.medium)
-                .frame(width: 200, height: 200)
+                .frame(width: 150, height: 150)
         }
         .padding()
     }
